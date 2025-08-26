@@ -5,3 +5,4 @@
         "lib/**/*.jar"
     ]
 }
+            @Override            public void mouseClicked(MouseEvent e) {                new AboutPage(HomePage.this).setVisible(true);            }
